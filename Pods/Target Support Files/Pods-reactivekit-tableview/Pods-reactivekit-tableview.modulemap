@@ -1,0 +1,6 @@
+framework module Pods_reactivekit_tableview {
+  umbrella header "Pods-reactivekit-tableview-umbrella.h"
+
+  export *
+  module * { export * }
+}

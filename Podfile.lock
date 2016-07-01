@@ -1,0 +1,22 @@
+PODS:
+  - Fakery (1.2.0):
+    - SwiftyJSON
+  - ReactiveKit (2.1.0)
+  - ReactiveUIKit (2.0.1):
+    - ReactiveKit (~> 2.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Fakery (~> 1.2)
+  - ReactiveKit (~> 2.1)
+  - ReactiveUIKit (~> 2.0)
+
+SPEC CHECKSUMS:
+  Fakery: ff6a27c3688a05c055d3e64c5fa9d78684796749
+  ReactiveKit: fe3c5d480ed904ce6d6d99cc94ccf568d5c48c5c
+  ReactiveUIKit: af6e401a61d196502267ff216b7ac6f4c37c0dc5
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 8ad03adb82ffb6bcf9b7ec422bec83d07131fd3f
+
+COCOAPODS: 1.0.1

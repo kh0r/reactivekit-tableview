@@ -1,0 +1,6 @@
+framework module Pods_reactivekit_tableviewUITests {
+  umbrella header "Pods-reactivekit-tableviewUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
