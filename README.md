@@ -1,3 +1,6 @@
+# Edit - Fix:
+https://github.com/ReactiveKit/ReactiveKit/issues/86
+
 # reactivekit-tableview
 A swift sample to reproduce a bug with reactivekit and uitableview
 
